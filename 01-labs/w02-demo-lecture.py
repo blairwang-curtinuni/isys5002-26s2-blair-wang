@@ -1,7 +1,4 @@
-print("Hello world")
-print("Hello world")
-print("Hello world")
-print("Hello world")
-print("Hello world")
-print("Hello world")
-print("Hello world")
+hello = "Hello"
+world = "world"
+
+print((hello + " " + world + "\n") * 70, end="")
