@@ -1,4 +1,9 @@
 hello = "Hello"
 world = "world"
 
-print((hello + " " + world + "\n") * 70, end="")
+bonjour = "bonjour"
+monde = "monde"
+
+print((hello + " " + world + "\n") * 4 +
+      (bonjour + " " + monde + "\n") * 3,
+      end="")
