@@ -1,5 +1,5 @@
 date,city,temperature,humidity,conditions
-2025-06-01,Perth,17.2,62,Sunny
+2025-06-01,Perth,17.2,62,"Sunny, then Cloudy"
 2025-06-01,Sydney,15.8,71,Cloudy
 2025-06-01,Darwin,31.5,68,Sunny
 2025-06-02,Perth,16.0,80,Rain
